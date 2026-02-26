@@ -23,4 +23,4 @@ B = int(input())
 SOMA = A + B
 
 # Impressão do resultado seguindo o formato "SOMA = X"
-print(f"SOMA = {SOMA}")
+print(f"SOMA = {SOMA}") 
